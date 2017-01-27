@@ -11,4 +11,6 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
+print "Hej hopp<br><br>";
+
 phpinfo();

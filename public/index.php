@@ -13,7 +13,7 @@
 
 #require __DIR__ . '/../vendor/autoload.php';
 
-print "Hej hopp<br><br>";
+print "Hej hopp 2<br><br>";
 
 #phpinfo();
 

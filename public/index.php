@@ -9,8 +9,8 @@
  * @author hans <hans.mehlin@nobelmedia.se>
  */
 
-require __DIR__ . '/../vendor/autoload.php';
+#require __DIR__ . '/../vendor/autoload.php';
 
 print "Hej hopp<br><br>";
 
-phpinfo();
+#phpinfo();

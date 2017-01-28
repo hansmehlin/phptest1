@@ -1,3 +1,5 @@
+
+
 <?php
 
 /*
@@ -14,3 +16,7 @@
 print "Hej hopp<br><br>";
 
 #phpinfo();
+
+?>
+
+html bara<br>
